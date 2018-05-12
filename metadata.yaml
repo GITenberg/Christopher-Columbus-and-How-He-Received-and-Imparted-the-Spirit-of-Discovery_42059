@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '41501'
     url: http://www.gutenberg.org/2009/agents/41501
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42059#Christopher-Columbus-and-How-He-Received-and-Imparted-the-Spirit-of-Discovery
 gutenberg_issued: '2013-02-10'
 gutenberg_type: Text
 identifiers:
