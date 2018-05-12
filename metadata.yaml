@@ -1,0 +1,31 @@
+_repo: Christopher-Columbus-and-How-He-Received-and-Imparted-the-Spirit-of-Discovery_42059
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42059-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Winsor, Justin
+    birthdate: 1831
+    deathdate: 1897
+    gutenberg_agent_id: '41501'
+    url: http://www.gutenberg.org/2009/agents/41501
+description: ''
+gutenberg_issued: '2013-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42059'
+  lccn: 02007944
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Columbus, Christopher -- Bibliography'
+- !lcsh 'America -- Discovery and exploration'
+- !lcsh 'Columbus, Christopher'
+- !lcsh 'Discoveries in geography'
+- !lcsh 'Columbus, Christopher -- Pictorial works'
+- !lcc 'E011'
+title: Christopher Columbus and How He Received and Imparted the Spirit of Discovery
+url: http://www.gutenberg.org/ebooks/42059
